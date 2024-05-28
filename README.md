@@ -36,6 +36,10 @@ After following installation instructions, run ```node server``` in the integrat
 
 
 
+https://github.com/domdecap/ecommerce-back-end/assets/33850184/3521f53e-5500-4723-9964-6d9446dc7417
+
+
+
 
 
 ## Contributions
